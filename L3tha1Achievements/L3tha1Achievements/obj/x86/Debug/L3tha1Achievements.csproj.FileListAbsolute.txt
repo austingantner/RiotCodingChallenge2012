@@ -1,0 +1,12 @@
+C:\Users\Austin\Documents\visual studio 2010\Projects\CodingChallenge\ConsoleVersion\L3tha1Achievements\L3tha1Achievements\bin\Debug\L3tha1Achievements.exe
+C:\Users\Austin\Documents\visual studio 2010\Projects\CodingChallenge\ConsoleVersion\L3tha1Achievements\L3tha1Achievements\bin\Debug\L3tha1Achievements.pdb
+C:\Users\Austin\Documents\visual studio 2010\Projects\CodingChallenge\ConsoleVersion\L3tha1Achievements\L3tha1Achievements\bin\Debug\System.Data.SQLite.dll
+C:\Users\Austin\Documents\visual studio 2010\Projects\CodingChallenge\ConsoleVersion\L3tha1Achievements\L3tha1Achievements\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Austin\Documents\visual studio 2010\Projects\CodingChallenge\ConsoleVersion\L3tha1Achievements\L3tha1Achievements\obj\x86\Debug\L3tha1Achievements.exe
+C:\Users\Austin\Documents\visual studio 2010\Projects\CodingChallenge\ConsoleVersion\L3tha1Achievements\L3tha1Achievements\obj\x86\Debug\L3tha1Achievements.pdb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\L3tha1Achievements\obj\x86\Debug\L3tha1Achievements.exe
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\L3tha1Achievements\bin\Debug\L3tha1Achievements.exe
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\L3tha1Achievements\bin\Debug\L3tha1Achievements.pdb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\L3tha1Achievements\bin\Debug\System.Data.SQLite.dll
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\L3tha1Achievements\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\L3tha1Achievements\obj\x86\Debug\L3tha1Achievements.pdb

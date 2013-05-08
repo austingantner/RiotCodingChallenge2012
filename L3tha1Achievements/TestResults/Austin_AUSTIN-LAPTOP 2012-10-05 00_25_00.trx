@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="91c8c1ea-0147-4dd2-8a85-74b4375a5eb3" name="Austin@AUSTIN-LAPTOP 2012-10-05 00:25:00" runUser="Austin-Laptop\Austin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="73fe52ec-4f2f-4e88-b818-ba7e66f9e8e5">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Austin_AUSTIN-LAPTOP 2012-10-05 00_25_00">
+      <DeploymentItem filename="C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\L3tha1Achievements\bin\Debug\L3tha1Achievements.exe" />
+      <DeploymentItem filename="C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\LATesting\System.Data.SQLite.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-05T00:25:00.7473112-05:00" queuing="2012-10-05T00:25:01.7421266-05:00" start="2012-10-05T00:25:01.9137269-05:00" finish="2012-10-05T00:26:01.8037023-05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="5" executed="4" passed="3" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="1" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="AUSTIN-LAPTOP" outcome="Error" timestamp="2012-10-05T00:26:01.8037023-05:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="RunBlankGame" storage="c:\users\austin\documents\visual studio 2010\projects\codingchallenge\l3tha1achievements\latesting\bin\debug\latesting.dll" id="be891441-54d1-746a-1327-8f4d2f22ff1f">
+      <Execution id="a067edd8-68fb-412e-8164-99c2b23bbdb3" />
+      <TestMethod codeBase="C:/Users/Austin/Documents/Visual Studio 2010/Projects/CodingChallenge/L3tha1Achievements/LATesting/bin/Debug/LATesting.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LATesting.TestGameOver, LATesting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RunBlankGame" />
+    </UnitTest>
+    <UnitTest name="RunBlankGameWithBlankPlayers" storage="c:\users\austin\documents\visual studio 2010\projects\codingchallenge\l3tha1achievements\latesting\bin\debug\latesting.dll" id="92c9b762-c6f9-2d71-8507-0727a4fa54ad">
+      <Execution id="2c1eea62-d0ec-43ae-b0a7-48eec07bae38" />
+      <TestMethod codeBase="C:/Users/Austin/Documents/Visual Studio 2010/Projects/CodingChallenge/L3tha1Achievements/LATesting/bin/Debug/LATesting.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LATesting.TestGameOver, LATesting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RunBlankGameWithBlankPlayers" />
+    </UnitTest>
+    <UnitTest name="TestConnection" storage="c:\users\austin\documents\visual studio 2010\projects\codingchallenge\l3tha1achievements\latesting\bin\debug\latesting.dll" id="ad20cce0-f5a4-5c2d-2814-89e48a4f7349">
+      <Execution id="8e2ea850-7e52-4aba-ad58-557717636c6b" />
+      <TestMethod codeBase="C:/Users/Austin/Documents/Visual Studio 2010/Projects/CodingChallenge/L3tha1Achievements/LATesting/bin/Debug/LATesting.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LATesting.TestGameOver, LATesting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestConnection" />
+    </UnitTest>
+    <UnitTest name="TestAchievements" storage="c:\users\austin\documents\visual studio 2010\projects\codingchallenge\l3tha1achievements\latesting\bin\debug\latesting.dll" id="dc330f0b-4a6d-6854-4ca6-69ce547540a3">
+      <Execution id="60d2ccbf-1d03-43af-ab68-f69f7c4e26fb" />
+      <TestMethod codeBase="C:/Users/Austin/Documents/Visual Studio 2010/Projects/CodingChallenge/L3tha1Achievements/LATesting/bin/Debug/LATesting.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LATesting.TestGameOver, LATesting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAchievements" />
+    </UnitTest>
+    <UnitTest name="RunRandomGame" storage="c:\users\austin\documents\visual studio 2010\projects\codingchallenge\l3tha1achievements\latesting\bin\debug\latesting.dll" id="e157a724-c08a-c4f6-17c1-285c8f1053d5">
+      <Execution id="70bdede5-f5c7-49a9-8285-2cfa372456d9" />
+      <TestMethod codeBase="C:/Users/Austin/Documents/Visual Studio 2010/Projects/CodingChallenge/L3tha1Achievements/LATesting/bin/Debug/LATesting.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LATesting.TestGameOver, LATesting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RunRandomGame" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="92c9b762-c6f9-2d71-8507-0727a4fa54ad" executionId="2c1eea62-d0ec-43ae-b0a7-48eec07bae38" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ad20cce0-f5a4-5c2d-2814-89e48a4f7349" executionId="8e2ea850-7e52-4aba-ad58-557717636c6b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="be891441-54d1-746a-1327-8f4d2f22ff1f" executionId="a067edd8-68fb-412e-8164-99c2b23bbdb3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dc330f0b-4a6d-6854-4ca6-69ce547540a3" executionId="60d2ccbf-1d03-43af-ab68-f69f7c4e26fb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e157a724-c08a-c4f6-17c1-285c8f1053d5" executionId="70bdede5-f5c7-49a9-8285-2cfa372456d9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2c1eea62-d0ec-43ae-b0a7-48eec07bae38" testId="92c9b762-c6f9-2d71-8507-0727a4fa54ad" testName="RunBlankGameWithBlankPlayers" computerName="AUSTIN-LAPTOP" duration="00:00:00.2303968" startTime="2012-10-05T00:25:02.1009273-05:00" endTime="2012-10-05T00:25:03.3333294-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2c1eea62-d0ec-43ae-b0a7-48eec07bae38">
+    </UnitTestResult>
+    <UnitTestResult executionId="8e2ea850-7e52-4aba-ad58-557717636c6b" testId="ad20cce0-f5a4-5c2d-2814-89e48a4f7349" testName="TestConnection" computerName="AUSTIN-LAPTOP" duration="00:00:00.0060211" startTime="2012-10-05T00:25:03.3333294-05:00" endTime="2012-10-05T00:25:03.3489294-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8e2ea850-7e52-4aba-ad58-557717636c6b">
+    </UnitTestResult>
+    <UnitTestResult executionId="a067edd8-68fb-412e-8164-99c2b23bbdb3" testId="be891441-54d1-746a-1327-8f4d2f22ff1f" testName="RunBlankGame" computerName="AUSTIN-LAPTOP" duration="00:00:00.0241899" startTime="2012-10-05T00:25:03.3645295-05:00" endTime="2012-10-05T00:25:03.3957295-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a067edd8-68fb-412e-8164-99c2b23bbdb3">
+    </UnitTestResult>
+    <UnitTestResult executionId="60d2ccbf-1d03-43af-ab68-f69f7c4e26fb" testId="dc330f0b-4a6d-6854-4ca6-69ce547540a3" testName="TestAchievements" computerName="AUSTIN-LAPTOP" duration="00:00:58.4079728" startTime="2012-10-05T00:25:03.3957295-05:00" endTime="2012-10-05T00:26:01.8037023-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="60d2ccbf-1d03-43af-ab68-f69f7c4e26fb">
+    </UnitTestResult>
+    <UnitTestResult executionId="70bdede5-f5c7-49a9-8285-2cfa372456d9" testId="e157a724-c08a-c4f6-17c1-285c8f1053d5" testName="RunRandomGame" computerName="AUSTIN-LAPTOP" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="70bdede5-f5c7-49a9-8285-2cfa372456d9">
+    </UnitTestResult>
+  </Results>
+</TestRun>

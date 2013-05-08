@@ -1,0 +1,8 @@
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\LATesting\bin\Debug\LATesting.dll
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\LATesting\bin\Debug\LATesting.pdb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\LATesting\bin\Debug\L3tha1Achievements.exe
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\LATesting\bin\Debug\System.Data.SQLite.dll
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\LATesting\bin\Debug\L3tha1Achievements.pdb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\LATesting\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\LATesting\obj\Debug\LATesting.dll
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\CodingChallenge\L3tha1Achievements\LATesting\obj\Debug\LATesting.pdb
